@@ -40,6 +40,7 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 ### 📚 Library Booking System
 A Java web application that allows users to register, log in, and manage book borrowing and returns.  
 Includes authentication, session handling, and full SQL database integration.
+- 🔗 GitHub Repository: https://github.com/Runtim3Ghost/Library-Booking-System
 
 ### 🎮 Math Combat Game
 A console-based Java game that uses mathematical logic (prime numbers, divisibility rules) in a turn-based combat system between a player and enemies.
