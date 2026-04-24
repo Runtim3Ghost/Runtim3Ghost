@@ -4,7 +4,7 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 
 ---
 
-## 📌 About Me
+## About Me
 
 - 🎓 Higher Certificate in Software Development (NQF Level 5)
 - 💻 Focused on backend development and database systems
@@ -13,7 +13,7 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 - Java
@@ -35,7 +35,7 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 📚 Library Booking System
 A Java web application that allows users to register, log in, and manage book borrowing and returns.  
@@ -49,7 +49,7 @@ A relational database system featuring tables, relationships, constraints, store
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Object-Oriented Programming (OOP)
 - Backend Development
