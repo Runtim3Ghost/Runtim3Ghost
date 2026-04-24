@@ -43,7 +43,7 @@ Includes authentication, session handling, and full SQL database integration.
 
 ### 🎮 Math Combat Game
 A console-based Java game that uses mathematical logic (prime numbers, divisibility rules) in a turn-based combat system between a player and enemies.
-## GitHub Repository: https://github.com/Runtim3Ghost/Math-Combat-Game
+🔗 GitHub Repository: https://github.com/Runtim3Ghost/Math-Combat-Game
 
 ### 🗃️ Database Design Project
 A relational database system featuring tables, relationships, constraints, stored procedures, and reporting queries using SQL Server.
