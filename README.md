@@ -6,7 +6,7 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 
 ## About Me
 
-- 🎓 Higher Certificate in Software Development (NQF Level 5)
+- 🎓 Higher Certificate in Software Development
 - 💻 Focused on backend development and database systems
 - 🧠 Strong interest in Java, SQL and system design
 - 📚 Currently progressing towards a BSc in Software Engineering
