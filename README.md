@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Tapiwa
 
-Welcome to my Github profile. I’m an aspiring Software Developer who has recently completed a Higher Certificate in Software Development. I am passionate about building practical software solutions and continuously improving my skills in programming, problem-solving, and system development. I have a strong hands-on foundation in **Java, SQL, backend system development and IT fundamentals.** I am currently progressing towards a Software Engineering degree to strengthen my coding and problem solving skills.
+Welcome to my Github profile. I am an aspiring Software Developer who has recently completed a Higher Certificate in Software Development (NQF Level 5). I am passionate about building practical software solutions and continuously improving my skills in programming, problem-solving, and backend system development.
+I have hands-on experience working with **Java, SQL, IT Fundamentals and database-driven applications**, and I am currently progressing towards a BSc in Software Engineering to further strengthen my development skills.
 
 ---
 
@@ -31,23 +32,33 @@ Welcome to my Github profile. I’m an aspiring Software Developer who has recen
 - Apache Tomcat
 - NetBeans
 - GitHub
-- Intellij
+- Intellij 
 
 ---
 
 ## Featured Projects
 
 ### 📚 Library Booking System
-A Java web application that allows users to register, log in, and manage book borrowing and returns.  
-Includes authentication, session handling, and full SQL database integration.
+A Java-based web application that allows users to register, log in, and manage book borrowing and returns.  
+- Implemented authentication and session management  
+- Integrated SQL Server database using JDBC  
+- Developed business logic for borrowing and returning books  
+- Built using Servlets and JSP, deployed on Apache Tomcat
 - 🔗 GitHub Repository: https://github.com/Runtim3Ghost/Library-Booking-System
 
 ### 🎮 Math Combat Game
-A console-based Java game that uses mathematical logic (prime numbers, divisibility rules) in a turn-based combat system between a player and enemies.
+A console-based Java application that uses mathematical logic in a turn-based combat system.
+- Applied object-oriented programming principles  
+- Implemented attack mechanics using prime numbers and divisibility rules  
+- Designed game logic including player/enemy health and combat flow 
 - 🔗 GitHub Repository: https://github.com/Runtim3Ghost/Math-Combat-Game
 
 ### 🗃️ Database Design Project
-A relational database system featuring tables, relationships, constraints, stored procedures, and reporting queries using SQL Server.
+A relational database system designed using SQL Server.
+- Created structured tables with primary and foreign keys  
+- Implemented stored procedures and views for data handling  
+- Applied constraints to enforce data integrity  
+- Designed queries for reporting and data retrieval  
 - 🔗 GitHub Repository: https://github.com/Runtim3Ghost/MMORPG-Database-Design-
 
 ---
