@@ -48,6 +48,7 @@ A console-based Java game that uses mathematical logic (prime numbers, divisibil
 
 ### 🗃️ Database Design Project
 A relational database system featuring tables, relationships, constraints, stored procedures, and reporting queries using SQL Server.
+- 🔗 GitHub Repository: https://github.com/Runtim3Ghost/MMORPG-Database-Design-
 
 ---
 
